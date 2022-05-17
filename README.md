@@ -1,17 +1,17 @@
 # prog_est_prog_13
-Programa en lenguaje c que muestra el uso de scanf, y el uso del ciclo while
-Autor: Oscar Eduardo Fletes Ixta
-Escuela: UVM Campus Lomas Verdes
-Materia : Programcion Estructurada
-CICLO: 01/2022
+Programa en lenguaje c que muestra el uso del ciclo while para calcular la suma de N numeros insertados por teclado y termina de leer cunado se inserta un 0
+* Autor: Oscar Eduardo Fletes Ixta
+* Escuela: UVM Campus Lomas Verdes
+* Materia : Programcion Estructurada
+* CICLO: 01/2022
 
 Programa en lenguaje c que muestra el uso de:
--Declaracion de variables 
--Variables del tipo int, float
--scanf
--Operaciones aritmeticas 
--Uso del ciclo while
--printf para monstrar los valroes de las variables
+* Declaracion de variables 
+* Variables del tipo int, float
+* scanf
+* Operaciones aritmeticas 
+* Uso del ciclo while
+* printf para monstrar los valroes de las variables
 
 Objetivo:
 Mostrar el uso de variables enteras y flotantes, como declararlas, pedirlas por teclado, usar el ciclo while, realizar operaciones aritmeticas e imprimirla.
